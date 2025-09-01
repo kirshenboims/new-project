@@ -9,7 +9,17 @@
       "Bash(npx create-vite:*)",
       "Bash(mkdir:*)",
       "Read(C:\\Users\\User\\projects/**)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git config:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Bash(node:*)",
+      "Bash(npm --version)",
+      "Bash(cat:*)",
+      "Read(C:\\Users\\User\\Downloads/**)",
+      "Bash(copy:*)",
+      "Bash(npm install)"
     ],
     "deny": [],
     "ask": []
