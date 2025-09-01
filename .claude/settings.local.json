@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init:*)",
+      "Bash(npx create-react-app:*)",
+      "Bash(npm create:*)",
+      "Bash(dir)",
+      "Bash(rmdir:*)",
+      "Bash(npx create-vite:*)",
+      "Bash(mkdir:*)",
+      "Read(C:\\Users\\User\\projects/**)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
